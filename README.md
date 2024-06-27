@@ -11,7 +11,7 @@ Esse script tem como finalidade pegar todos os dados requisitados do website CRE
 ### Como Executar:
 `` npm install ``
 
-``` node script-florianópolis.js ```
+``` node script-florianopolis.js ```
 
 ### Output:
 Arquivo ```data.csv``` com todos os dados do website.
